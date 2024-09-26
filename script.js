@@ -1,5 +1,6 @@
 
-const cvLocation = 'https://drive.google.com/file/d/1kjXvovRtatNgO6eV8mIM8GfAzoiPf_Zg/view?usp=drive_link'
+const cvLocation = "https://drive.google.com/file/d/1NfwzdKAyGZv25ggr5VQK9YNPSu37mWSI/view?usp=drive_link";
+  
 
 
 
